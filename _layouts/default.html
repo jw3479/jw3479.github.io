@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@jw3479 
+irenezhang30
+/
+irenezhang30.github.io
+Public
+generated from leonidk/new_website
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+irenezhang30.github.io/_layouts/default.html
+
+Qizhen Zhang .
+Latest commit fe84a66 on Oct 8
+ History
+ 1 contributor
+156 lines (138 sloc)  6.38 KB
+
 <!DOCTYPE HTML>
 <html lang="en">
 
@@ -25,25 +54,27 @@
           <tr style="padding:0px">
             <td style="padding:2.5%;width:60%;vertical-align:middle">
               <h1>
-                Leonid Keselman
+                Jia Wan
               </h1>
-              <p>I am a PhD student at the <a href="https://www.ri.cmu.edu/">Robotics Institute</a>, part of the <a href="https://www.scs.cmu.edu/">School of Computer Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, where I work on 3D computer vision. My PhD advisor is <a href="http://www.cs.cmu.edu/~hebert/">Martial Hebert</a>.
+              <p>I am currently at the University of Oxford studying statistics and AI on a <a href="https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/">Rhodes Scholarship</a>. I am doing my master's with the <a href="https://foersterlab.com/">FLAIR lab</a> where I work on zero-shot coordination problems in multi-agent reinforcement learning with <a href="https://www.jakobfoerster.com/home">Jakob Foerster</a>. I am also a non-residential research fellow with the Regulation, Evaluation, and Governance Lab (<a href="https://reglab.stanford.edu/">RegLab</a>) at Stanford Law School working with <a href="https://dho.stanford.edu/home">Daniel Ho</a> and <a href="https://sites.google.com/site/jacobsgoldin/">Jacob Goldin</a>.
               </p>
               <p>
-                From 2011 to 2017, I worked at <a href="https://www.intel.com">Intel</a>, as part of <a href="https://www.intelrealsense.com/">Intel RealSense</a>. I primarily designed computer vision algorithms for efficient hardware ASICs, including the Intel RealSense <a href="https://software.intel.com/en-us/articles/realsense-r200-camera">R200</a> and <a href="https://software.intel.com/en-us/realsense/d400">D400</a> RGB-D sensors. Additionally, I worked on <a href="https://github.com/IntelRealSense/librealsense">software APIs</a>, <a href="https://patents.google.com/patent/US9992474B2">active illumination systems</a>, <a href="https://patents.google.com/patent/US9304597">human-computer interaction devices</a>, and helped develop demos for trade shows, including CES 2012-2016.
+                Prior to Oxford, I studied mathematics and computer science at Columbia University, where I did research on matching theory with <a href="http://www.columbia.edu/~cs2035/">Clifford Stein</a> and <a href="http://www.columbia.edu/~yf2414/">Yuri Faenza</a>. 
               </p>
               <p>
-                I have an MS in Computer Science (AI focus) from <a href="http://cs.stanford.edu">Stanford University</a>, where I was a research assistant for <a href="http://svl.stanford.edu/">Silvio Savarese</a> and a teaching assistant for <a href="http://svl.stanford.edu/">Fei-Fei Li</a> (<a href="http://vision.stanford.edu/teaching/cs131_fall1617/">CS131</a> & <a href="http://cs231n.stanford.edu/2017/">CS231N</a>). I have a BS in EECS from <a href="http://www.eecs.berkeley.edu/">UC Berkeley</a>, where I worked in <a href="https://people.eecs.berkeley.edu/~pister/">Kris Pister's</a> lab.
+                In my spare time I like (amateurly) writing music with piano, guitar, drums or MIDI keyboard, performing standup comedy, long-distance running, and skateboarding.
+              </p>
+              </p>
+                You can reach me at jia [dot] wan [AT] brasenose [dot] ox [dot] ac [dot] uk.
               </p>
               <p style="text-align:center">
-                <a target="_blank" href="https://mailhide.io/e/B8TyS"> Email</a> &nbsp;/&nbsp;
-                <a href="https://github.com/leonidk">GitHub</a> &nbsp;/&nbsp;
-                <a href="https://scholar.google.com/citations?user=GCYG4GoAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
-                <a href="https://www.linkedin.com/in/lkeselman"> LinkedIn </a>
+                <a target="_blank" href="mailto:jia.wan@bnc.ox.ac.uk"> Email</a> &nbsp;/&nbsp;
+                <a href="https://github.com/jw3479"> GitHub </a> &nbsp;/&nbsp;
+                <a href="https://www.dropbox.com/s/0qtbbasf05jclk3/CV.pdf?dl=0"> CV </a>
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/circle_bw_crop.jpg">
+              <img style="width:90%;max-width:90%" alt="profile photo" src="images/icml.png">
             </td>
           </tr>
         </table>
@@ -52,12 +83,10 @@
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research</h2>
-              <p>
-                I'm interested in computer vision, machine learning, optimization, graphics and robotics.
-              </p>
             </td>
           </tr>
         </table>
+
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
           {% for post in site.posts %}
@@ -65,7 +94,7 @@
           {% if cat == 'research' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
@@ -78,6 +107,9 @@
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
+              {% if post.talk %}
+              <a href="{{post.talk}}">talk</a> /
+              {% endif %}
               {% if post.video %}
               <a href="{{post.video}}">video</a> /
               {% endif %}
@@ -101,144 +133,41 @@
         <br>
         <br>
         <br>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+
+
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Intel Projects</h2>
-              <p>Besides my work on the RealSense depth sensors and the publications above, a sampling of my publicly disclosed work
+              <h2>Teaching</h2>
+        <p> I was a teaching assistant for the following graduate-level courses at Columbia University.
+        </p>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+        <img style="width:85%; max-width:85%" alt="cs" src="images/uoft.png">
+            </td>
+            <td width="75%" valign="center">
+              <p> CSOR 4231: Analysis of Algorithms
+              </p>
+              <p> IEOR 4573: Computational Discrete Optimization
               </p>
             </td>
           </tr>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-
-          {% for post in site.posts %}
-          {% for cat in post.categories %}
-          {% if cat == 'Intel' %}
-          <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>{{post.title}}</h3>
-              <br>
-              <em>{{post.categories}} {{post.course}}</em>
-              <br>
-              {{ post.date | date: "%Y-%m-%d" }}
-
-              <br>
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
-              {% endif %}
-              {% if post.patent %}
-              <a href="{{post.patent}}">patent</a> /
-              {% endif %}
-              {% if post.patent2 %}
-              <a href="{{post.patent2}}">patent #2</a> /
-              {% endif %}
-              {% if post.patent3 %}
-              <a href="{{post.patent3}}">patent #3</a> /
-              {% endif %}
-              {% if post.video %}
-              <a href="{{post.video}}">video</a> /
-              {% endif %}
-              {% if post.video2 %}
-              <a href="{{post.video2}}">video #2</a> /
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}">code</a> /
-              {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
-              {% endif %}
-              <p></p>
-              {{ post.excerpt }}
-            </td>
-          </tr>
-          {% endif %}
-          {% endfor %}
-          {% endfor %}
-        </table>
+        </tbody></table>
         <br>
         <br>
         <br>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
-            <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Other Projects</h2>
-              <p> These include coursework, side projects and unpublished research work. 
-              </p>
-            </td>
-          </tr>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-
-          {% for post in site.posts %}
-          {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'Intel' %}
-          <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>{{post.title}}</h3>
-              <br>
-              <em>{{post.categories}} {{post.course}}</em>
-              <br>
-              {{ post.date | date: "%Y-%m-%d" }}
-
-              <br>
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
-              {% endif %}
-              {% if post.patent %}
-              <a href="{{post.patent}}">patent</a> /
-              {% endif %}
-              {% if post.patent2 %}
-              <a href="{{post.patent2}}">patent #2</a> /
-              {% endif %}
-              {% if post.patent3 %}
-              <a href="{{post.patent3}}">patent #3</a> /
-              {% endif %}
-              {% if post.video %}
-              <a href="{{post.video}}">video</a> /
-              {% endif %}
-              {% if post.video2 %}
-              <a href="{{post.video2}}">video #2</a> /
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}">code</a> /
-              {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
-              {% endif %}
-              <p></p>
-              {{ post.excerpt }}
-            </td>
-          </tr>
-          {% endif %}
-          {% endfor %}
-          {% endfor %}
-        </table>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:0px">
               <br>
               <p style="text-align:center;font-size:small;">
-                Design and source code from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's website</a>
+                Template from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron</a>
               </p>
             </td>
           </tr>
@@ -249,4 +178,3 @@
 </body>
 
 </html>
-
