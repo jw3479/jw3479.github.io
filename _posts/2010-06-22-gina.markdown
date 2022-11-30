@@ -3,7 +3,7 @@ layout: post
 title:  "Internal Closedness and von Neumann-Morgenstern Stability in Matching Theory: Structures and Complexity"
 date:   2022-04-01 00:00:00 +00:00
 image: /images/marco.gif
-venue: <em>International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</em>. Full paper, Oral Presentation
+venue: preparing for submission to <em>Mathematics of Operations Research</em>.
 categories: research
 authors: "<strong>Jia Wan</strong>,Yuri Faenza, Clifford Stein"
 arxiv: https://arxiv.org/pdf/2107.06434v2.pdf
