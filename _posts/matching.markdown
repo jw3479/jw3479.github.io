@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Internal Closedness and von Neumann-Morgenstern Stability in Matching Theory: Structures and Complexity"
-date:   2022-12-01
-image: /images/matching.jpg
+date:   2022-12-01 00:00:00 +00:00
 categories: research
 authors: "<strong>Jia Wan</strong>,Yuri Faenza, Clifford Stein"
 venue: "preparing for submission to Mathematics of Operations Research"
