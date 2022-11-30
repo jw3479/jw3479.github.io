@@ -7,6 +7,5 @@ venue: preparing for submission to <em>Mathematics of Operations Research</em>.
 categories: research
 authors: "<strong>Jia Wan</strong>,Yuri Faenza, Clifford Stein"
 arxiv: https://arxiv.org/pdf/2107.06434v2.pdf
-talk: https://youtu.be/s9kCWh0x4uM
 ---
 We propose a model-based method for fully cooperative multi-agent settings (Dec-POMDPs). Our method learns a centralized model, and is up to 20x more sample efficient in three commuication tasks. We also show theoretical sample complexity bounds for model-based methods learning in tabular Dec-POMDPs.
