@@ -8,4 +8,4 @@ categories: research
 authors: "<strong>Jia Wan</strong>, Yuri Faenza, Clifford Stein (alphabetical order)" 
 arxiv: https://arxiv.org/pdf/2107.06434v2.pdf
 ---
-We propose a model-based method for fully cooperative multi-agent settings (Dec-POMDPs). Our method learns a centralized model, and is up to 20x more sample efficient in three commuication tasks. We also show theoretical sample complexity bounds for model-based methods learning in tabular Dec-POMDPs.
+We introduce and study, in both the marriage and the roommate case, inclusionwise maximal internally stable sets of matchings. We call those sets internally closed. By building on known and newly developed algebraic structures associated to sets of matchings, we investigate the complexity of deciding if a set of matchings is internally closed, and if it is von Neumann-Morgenstern stable.
