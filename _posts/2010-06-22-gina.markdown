@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Centralized Model and Exploration Policy for Multi-Agent RL"
+title:  "Internal Closedness and von Neumann-Morgenstern Stability in Matching Theory: Structures and Complexity"
 date:   2022-04-01 00:00:00 +00:00
 image: /images/marco.gif
 venue: <em>International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</em>. Full paper, Oral Presentation
 categories: research
-authors: "<strong>Qizhen Zhang</strong>, Chris Lu, Animesh Garg, Jakob Foerster"
+authors: "<strong>Jia Wan</strong>,Yuri Faenza, Clifford Stein"
 arxiv: https://arxiv.org/pdf/2107.06434v2.pdf
 talk: https://youtu.be/s9kCWh0x4uM
 ---
