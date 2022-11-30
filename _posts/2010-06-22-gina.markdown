@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Internal Closedness and von Neumann-Morgenstern Stability in Matching Theory: Structures and Complexity"
-date:   2022-12-01 00:00:00 +00:00
+date:   2022-04-01 00:00:00 +00:00
 image: /images/marco.gif
 venue: preparing for submission to <em>Mathematics of Operations Research</em>
 categories: research
