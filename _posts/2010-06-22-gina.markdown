@@ -3,9 +3,9 @@ layout: post
 title:  "Internal Closedness and von Neumann-Morgenstern Stability in Matching Theory: Structures and Complexity"
 date:   2022-04-01 00:00:00 +00:00
 image: /images/marco.gif
-venue: preparing for submission to <em>Mathematics of Operations Research</em>
+venue: preparing for submission to <strong>Mathematics of Operations Research</strong>
 categories: research
 authors: "<strong>Jia Wan</strong>, Yuri Faenza, Clifford Stein (alphabetical order)"
 arxiv: http://arxiv.org/abs/2211.17050
 ---
-We introduce and study, in both the marriage and the roommate case, inclusionwise maximal internally stable sets of matchings. We call those sets internally closed. By building on known and newly developed algebraic structures associated to sets of matchings, we investigate the complexity of deciding if a set of matchings is internally closed, and if it is von Neumann-Morgenstern stable.
+We introduce and study, in both the marriage and the roommate case, inclusionwise maximal internally stable sets of matchings. We call those sets internally closed. By building on known and newly developed algebraic structures associated to sets of matchings. In the roommate problem, we prove that the complexity of deciding if a set of matchings is internally closed, and if it is von Neumann-Morgenstern stable are both co-NP-hard.
