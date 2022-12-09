@@ -7,3 +7,4 @@ venue: poster presentation at <strong>Joint Mathematics Meetings</strong> by Mat
 categories: research
 authors: "with Alejandro Buendia and Junho Won"
 ---
+Representation theory in graph edge coloring problems inspired by diagonal Ramsey numbers. 
