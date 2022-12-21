@@ -7,6 +7,6 @@ venue: poster presentation at <strong>Joint Mathematics Meetings</strong> by Mat
 arxiv: https://www.dropbox.com/s/w4d2tmt8akzb99s/Lie%20Algebra%20Representations%20Arising%20from%20Ramsey%20Theory.pdf?dl=0
 poster: https://www.dropbox.com/s/v15nipgbr1lhvf4/REU%20poster.pdf?dl=0
 categories: research
-authors: "Alejandro Buendia, <strong>Jia Wan</strong>, Junho Won"
+authors: "Alejandro Buendia, <strong>Jia Wan</strong>, Junho Won (alphabetical order)"
 ---
 Representations of Lie algebras have found many applications in combinatorics following work by Richard Stanley. Inspired by the study of two-colored diagonal Ramsey numbers, we construct linear operators acting on graphs by recoloring complete monochromatic subgraphs. We present computational evidence for semisimplicity and stabilization of the Lie algebras and outline further directions to pursue.
