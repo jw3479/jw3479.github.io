@@ -4,8 +4,6 @@ title: "Lie Algebra Representations Arising from Ramsey Theory"
 date: 2018-04-01 00:00:00 +00:00
 image: /images/marco.gif
 venue: poster presentation at <strong>Joint Mathematics Meetings</strong> by Mathematical Association of America
-arxiv: https://www.dropbox.com/s/w4d2tmt8akzb99s/Lie%20Algebra%20Representations%20Arising%20from%20Ramsey%20Theory.pdf?dl=0
-poster: https://www.dropbox.com/s/v15nipgbr1lhvf4/REU%20poster.pdf?dl=0
 categories: research
 authors: "Alejandro Buendia, <strong>Jia Wan</strong>, Junho Won (alphabetical order)"
 ---
