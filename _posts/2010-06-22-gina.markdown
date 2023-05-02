@@ -3,7 +3,7 @@ layout: post
 title:  "Internal Closedness and von Neumann-Morgenstern Stability in Matching Theory: Structures and Complexity"
 date:   2023-01-01 00:00:00 +00:00
 image: /images/marco.gif
-venue: in submission to <strong>Mathematics of Operations Research</strong> and to <strong>ACM Conference on Economics and Computation (EC)</strong>.
+venue: in submission.
 categories: research
 authors: "Yuri Faenza, Clifford Stein, <strong>Jia Wan</strong> (alphabetical order)"
 arxiv: http://arxiv.org/abs/2211.17050
