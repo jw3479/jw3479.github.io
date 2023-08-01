@@ -6,7 +6,5 @@ image: /images/marco.gif
 venue: Oxford MSc Thesis supervised by Jakob Foerster
 categories: research
 authors: "<strong>Jia Wan</strong>"
-arxiv: https://www.dropbox.com/s/dcsp6ant6haila0/Noisy%20ZSC.pdf?dl=0
-code: https://github.com/jw3479/noisy-ZSC
 ---
 Zero-shot coordination (ZSC) gives a proxy for human-AI coordination by preventing the agents from adopting idiosyncratic behaviors or conventions that are not interpretable by agents that were not present during training. In practice, agents might each have their private models of the tasks, which might not perfectly align with the ground truth. We propose the noisy zero-shot coordination (noisy ZSC) problem to model such coordination scenarios under misalignment. On the theoretical side, we formally introduce noisy ZSC and offer a new perspective of the noisy ZSC problem by showing that any noisy ZSC problem can be reduced to a ZSC problem with respect to a standard Dec-POMDP. On the empirical side, we propose a test bed environment called the noisy lever game to benchmark coordination under the noisy ZSC framework. We show that out-of-box MARL algorithms such as independent PPO cannot solve the noisy ZSC problem, and give a characterization for the optimal policy.
