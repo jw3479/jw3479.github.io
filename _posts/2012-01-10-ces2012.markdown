@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Noisy ZSC: Breaking The Common Knowledge Assumption In Zero-Shot Coordination Games"
-date: 2022-01-01 00:00:00 +00:00
+date: 2023-01-01 00:00:00 +00:00
 image: /images/marco.gif
-venue: Agent Learning in Open-Endedness (ALOE) Workshop, NeurIPS 2023
+venue: Agent Learning in Open-Endedness (ALOE) Workshop, NeurIPS
 categories: research
 authors: "Usman Anwar*, <strong>Jia Wan</strong>*, David Krueger, Jakob Foerster"
 ---

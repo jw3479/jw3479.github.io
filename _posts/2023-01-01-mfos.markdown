@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Analyzing the Sample Complexity of Model-Free Opponent Shaping"
-date:   2023-01-01 00:00:00 +00:00
+date:   2023-02-01 00:00:00 +00:00
 image: /images/marco.gif
 venue: in submission.
 categories: research
 authors: "Cheuk Chi Kitty Fung, Qizhen Zhang, Chris Lu, <strong>Jia Wan</strong>, Timon Willi and Jakob Foerster"
 ---
-we present R-FOS, a tabular version of M-FOS (model-free opponent shaping) that is more suitable for theoreti-
+We present R-FOS, a tabular version of M-FOS (model-free opponent shaping) that is more suitable for theoreti-
 cal analysis. Within this discretised MDP, we adapt the Rmax algorithm as the meta-learner in the R-FOS algorithm. We derive a sample complexity bound that is exponential in the cardinality of the inner state and action space and the number of agents. Our theoretical results on scaling are supported empirically in the Matching Pennies environment.
