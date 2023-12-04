@@ -7,5 +7,5 @@ venue: presentation at the CRIW Pre- Conference, NBER Summer Institute
 categories: research
 authors: "Benjamin Lu*, <strong>Jia Wan</strong>*, Jacob Goldin, Daniel Ho"
 ---
-We tackle the problem of accurate inference of demographic disparity estimates when the demographic labels are unobserved. We propose a dual-bootstrap approach that explicitly accounts for imputation error, enabling inference that is valid asymptotically and more accurate in finite samples. 
+We tackle the problem of uncertainty quantification of demographic disparity estimates when the demographic labels are unobserved. We propose a dual-bootstrap approach that explicitly accounts for imputation error, enabling inference that is valid asymptotically. Empirically, we show through simulated data that dual bootstrap produces more accurate predictions in finite samples.
 
