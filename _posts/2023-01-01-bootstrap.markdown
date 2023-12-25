@@ -3,7 +3,7 @@ layout: post
 title:  "Quantifying the Uncertainty of Demographic Disparity Estimates when Demographic Labels are Unobserved"
 date:   2023-02-01 00:00:00 +00:00
 image: /images/marco.gif
-venue: presentation at the CRIW Pre- Conference, NBER Summer Institute 
+venue: presentation at the CRIW Conference, <strong>NBER Summer Institute</strong>, National Bureau of Economic Research. 
 categories: research
 authors: "Benjamin Lu*, <strong>Jia Wan</strong>*, Jacob Goldin, Daniel Ho"
 ---

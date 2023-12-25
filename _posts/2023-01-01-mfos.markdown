@@ -3,7 +3,7 @@ layout: post
 title:  "Analyzing the Sample Complexity of Model-Free Opponent Shaping"
 date:   2024-02-01 00:00:00 +00:00
 image: /images/marco.gif
-venue: full paper and for oral presentation at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+venue: full paper and oral presentation at the <strong>International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</strong>
 categories: research
 authors: "Cheuk Chi Kitty Fung, Qizhen Zhang, Chris Lu, <strong>Jia Wan</strong>, Timon Willi and Jakob Foerster"
 ---
