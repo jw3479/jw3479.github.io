@@ -3,7 +3,7 @@ layout: post
 title:  "Internal Closedness and von Neumann-Morgenstern Stability in Matching Theory: Structures and Complexity"
 date:   2024-1-22 00:00:00 +00:00
 image: /images/marco.gif
-venue: accepted at <strong>IPCO</strong> (Integer Programming and Combinatorial Optimization).
+venue: Proceedings of the International Conference on Integer Programming and Combinatorial Optimization (<strong>IPCO</strong>).
 categories: research
 authors: "Yuri Faenza*, Clifford Stein*, <strong>Jia Wan</strong>* (alphabetical order)"
 arxiv: http://arxiv.org/abs/2211.17050
