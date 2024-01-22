@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Analyzing the Sample Complexity of Model-Free Opponent Shaping"
-date:   2023-12-20 00:00:00 +00:00
+date:   2024-1-10 00:00:00 +00:00
 image: /images/marco.gif
 venue: full paper and oral presentation at the <strong>International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</strong>
 categories: research
