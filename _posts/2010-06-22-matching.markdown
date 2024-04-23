@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Internal Closedness and von Neumann-Morgenstern Stability in Matching Theory: Structures and Complexity"
-date:   2024-1-22 00:00:00 +00:00
+date:   2024-4-20 00:00:00 +00:00
 image: /images/marco.gif
 venue: Proceedings of the International Conference on Integer Programming and Combinatorial Optimization (<strong>IPCO</strong>).
 categories: research

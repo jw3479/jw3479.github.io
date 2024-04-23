@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quantifying the Uncertainty of Demographic Disparity Estimates when Demographic Labels are Unobserved"
-date:   2024-01-01 00:00:00 +00:00
+date:   2024-04-01 00:00:00 +00:00
 image: /images/marco.gif
 venue: accepted at the CRIW Conference, <strong>National Bureau of Economic Research (NBER)</strong>. 
 categories: research
