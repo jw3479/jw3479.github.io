@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Analyzing the Sample Complexity of Model-Free Opponent Shaping"
+date:   2024-7-10 00:00:00 +00:00
+image: /images/marco.gif
+venue: Accepted at the 38th Workshop on Aligning Reinforcement Learning Experimentalists and Theorists, the <strong>International Conference on Machine Learning (ICML)</strong>, 2024, Vienna, Austria.
+categories: research
+authors: "<strong>Jia Wan</strong>, Sean Sinclair, Devavrat Shah, and Martin Wainwright"
+arxiv: 
+---
