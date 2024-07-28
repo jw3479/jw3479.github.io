@@ -6,6 +6,6 @@ image: /images/marco.gif
 venue: Proceedings of the International Conference on Integer Programming and Combinatorial Optimization (<strong>IPCO</strong>).
 categories: research
 authors: "Yuri Faenza*, Clifford Stein*, <strong>Jia Wan</strong>* (alphabetical order)"
-arxiv: http://arxiv.org/abs/2211.17050
+arxiv: https://dl.acm.org/doi/abs/10.1007/978-3-031-59835-7_13
 ---
 We study alternatives to stability in matching problems. We define a more general notion of stability based on the game-theoretic concept of internal stability. We focus on two families of internally stable sets of matchings: von Neumann-Morgenstern (vNM) stable and internally closed. We show that, in the marriage case, internally closed sets are an alternative to stable matchings that is as tractable as stable matchings themselves. In the roommate case, deciding if a set of matchings is internally closed or von Neumann-Morgenstern stable are both co-NP-hard.

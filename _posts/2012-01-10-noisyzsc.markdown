@@ -6,5 +6,6 @@ image: /images/marco.gif
 venue: extended abstract at <strong>AAMAS</strong> 2024; Agent Learning in Open-Endedness (ALOE) Workshop, <strong>NeurIPS</strong> 
 categories: research
 authors: "Usman Anwar, <strong>Jia Wan</strong>, David Krueger, Jakob Foerster"
+arxiv: https://openreview.net/forum?id=zhES2B5mdv&referrer=%5Bthe%20profile%20of%20Jia%20Wan%5D(%2Fprofile%3Fid%3D~Jia_Wan3)
 ---
 Zero-shot coordination (ZSC) gives a proxy for human-AI coordination by preventing the agents from adopting idiosyncratic behaviors or conventions that are not interpretable by agents that were not present during training. In practice, agents might each have their private models of the tasks, which might not perfectly align with the ground truth. We propose the noisy zero-shot coordination (noisy ZSC) problem to model such coordination scenarios under misalignment. On the theoretical side, we formally introduce noisy ZSC and offer a new perspective of the noisy ZSC problem by showing that any noisy ZSC problem can be reduced to a ZSC problem with respect to a standard Dec-POMDP. On the empirical side, we propose a test bed environment called the noisy lever game to benchmark coordination under the noisy ZSC framework. 

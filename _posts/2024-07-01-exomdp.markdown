@@ -6,5 +6,5 @@ image: /images/marco.gif
 venue: Accepted at the 38th Workshop on Aligning Reinforcement Learning Experimentalists and Theorists, the <strong>International Conference on Machine Learning (ICML)</strong>, 2024, Vienna, Austria.
 categories: research
 authors: "<strong>Jia Wan</strong>, Sean Sinclair, Devavrat Shah, and Martin Wainwright"
-arxiv: 
+arxiv: https://openreview.net/forum?id=z55DUMR4bE&referrer=%5Bthe%20profile%20of%20Jia%20Wan%5D(%2Fprofile%3Fid%3D~Jia_Wan3)
 ---
