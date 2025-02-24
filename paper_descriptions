@@ -1,0 +1,6 @@
+---
+Zero-shot coordination (ZSC) gives a proxy for human-AI coordination by preventing the agents from adopting idiosyncratic behaviors or conventions that are not interpretable by agents that were not present during training. In practice, agents might each have their private models of the tasks, which might not perfectly align with the ground truth. We propose the noisy zero-shot coordination (noisy ZSC) problem to model such coordination scenarios under misalignment. On the theoretical side, we formally introduce noisy ZSC and offer a new perspective of the noisy ZSC problem by showing that any noisy ZSC problem can be reduced to a ZSC problem with respect to a standard Dec-POMDP. On the empirical side, we propose a test bed environment called the noisy lever game to benchmark coordination under the noisy ZSC framework. 
+
+
+---
+We present R-FOS, a tabular version of M-FOS (model-free opponent shaping) that is more suitable for theoretical analysis. Within this discretised MDP, we adapt the Rmax algorithm as the meta-learner in the R-FOS algorithm. We derive a sample complexity bound that is exponential in the cardinality of the inner state and action space and the number of agents. Our theoretical results on scaling are supported empirically in the Matching Pennies environment.

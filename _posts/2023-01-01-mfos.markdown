@@ -7,5 +7,3 @@ venue: full paper and oral presentation at the <strong>International Conference 
 categories: research
 authors: "Cheuk Chi Kitty Fung, Qizhen Zhang, Chris Lu, <strong>Jia Wan</strong>, Timon Willi and Jakob Foerster"
 arxiv: https://dl.acm.org/doi/10.5555/3635637.3662914
----
-We present R-FOS, a tabular version of M-FOS (model-free opponent shaping) that is more suitable for theoretical analysis. Within this discretised MDP, we adapt the Rmax algorithm as the meta-learner in the R-FOS algorithm. We derive a sample complexity bound that is exponential in the cardinality of the inner state and action space and the number of agents. Our theoretical results on scaling are supported empirically in the Matching Pennies environment.
