@@ -3,7 +3,7 @@ layout: post
 title:  "Exploiting Exogenous Structure for Sample-Efficient Reinforcement Learning"
 date:   2024-7-10 00:00:00 +00:00
 image: /images/marco.gif
-venue: <strong>In submission.</strong> Preliminary version at the 38th Workshop on Aligning Reinforcement Learning Experimentalists and Theorists (ARLET), the <strong>International Conference on Machine Learning (ICML)</strong>, 2024.
+venue: <strong>In submission.</strong> Preliminary version at the 38th Workshop on Aligning Reinforcement Learning Experimentalists and Theorists (ARLET), the <strong>International Conference on Machine Learning (ICML)</strong>
 categories: research
 authors: "<strong>Jia Wan*</strong>, Sean Sinclair, Devavrat Shah, and Martin Wainwright"
 arxiv: https://arxiv.org/abs/2409.14557
