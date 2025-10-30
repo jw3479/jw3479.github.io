@@ -3,9 +3,9 @@ layout: post
 title:  "Internal Closedness and von Neumann-Morgenstern Stability in Matching Theory: Structures and Complexity"
 date:   2024-4-20 00:00:00 +00:00
 image: /images/marco.gif
-venue: Accepted at <strong>Mathematical Programming</strong>. An extended abstract appeared in the Proceedings of the International Conference on Integer Programming and Combinatorial Optimization (IPCO)
+venue: Published at <strong>Mathematical Programming</strong>. An extended abstract appeared in the Proceedings of the International Conference on Integer Programming and Combinatorial Optimization (IPCO)
 categories: research
 authors: "Yuri Faenza*, Clifford Stein*, <strong>Jia Wan</strong>* (alphabetical order)"
-arxiv: https://dl.acm.org/doi/abs/10.1007/978-3-031-59835-7_13
+arxiv: https://link.springer.com/article/10.1007/s10107-025-02292-3
 ---
 We study alternatives to stability in matching problems. We define a more general notion of stability based on the game-theoretic concept of internal stability. We focus on two families of internally stable sets of matchings: von Neumann-Morgenstern (vNM) stable and internally closed. We show that, in the marriage case, internally closed sets are an alternative to stable matchings that is as tractable as stable matchings themselves. In the roommate case, deciding if a set of matchings is internally closed or von Neumann-Morgenstern stable are both co-NP-hard.
