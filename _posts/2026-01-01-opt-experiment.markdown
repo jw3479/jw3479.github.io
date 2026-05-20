@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Inference on Identification Sets in Choice Modeling"
-date:   2026-10-01 00:00:00 +00:00
+date:   2026-01-01 00:00:00 +00:00
 image: /images/marco.gif
 venue: <strong>In submission.</strong>
 categories: research
